@@ -1,0 +1,9 @@
+*.iml
+.idea
+.venv/
+
+/.env
+
+data/**
+!data/**/.gitkeep
+
